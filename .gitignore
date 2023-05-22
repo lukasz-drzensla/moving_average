@@ -1,1 +1,3 @@
-build_*
+build_win/*
+build_linux/*
+build_mac/*
